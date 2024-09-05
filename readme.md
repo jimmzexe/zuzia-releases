@@ -1,3 +1,14 @@
-# Zuzia Agent - Release Repository
-This repository hosts public releases for Zuzia's App Agent, a tool designed for monitoring and conducting performance checks on applications. The agent helps track application performance metrics, logs, and sends alerts when necessary.
+# Zuzia Agent - Server Performance Monitoring & Alerts
 
+Zuzia Agent is a lightweight tool designed to monitor server performance, ensuring optimal operation by tracking essential metrics, logging critical events, and triggering alerts when predefined thresholds are crossed.
+
+## Features:
+- **Comprehensive Monitoring**: Real-time tracking of CPU, memory, disk usage, and more.
+#- **Automated Alerts**: Instant notifications for performance bottlenecks or system failures.
+- **Detailed Logging**: Centralized log collection for all monitored servers, easily accessible for auditing or debugging.
+#- **Configurable Triggers**: Customize alert thresholds to fit your server requirements.
+- **Efficient & Lightweight**: Designed to minimize resource usage, ensuring your servers stay focused on what matters.
+
+## Releases
+This repository hosts only the **stable public releases** of Zuzia Agent.  
+Each release is thoroughly tested and ready for deployment in production environments.
